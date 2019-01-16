@@ -1,0 +1,48 @@
+.cardDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  /* align-content: space-between; */
+  /* max-height: 10vh; */
+  margin-bottom: 13vh;
+}
+
+.cardDiv > div {
+  width: 20%;
+  height: 2vmax;
+  
+  margin-top: 15vh;
+  margin-bottom: 15vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.cardDiv > div > div {
+  text-align: Left;
+  text-indent: -1.35vw;
+  min-width: 20vw;
+  /* margin-right: 4.5vw; */
+  margin-left: 2vw;
+  margin-right: 2vw;
+  /* display:flex; */
+  /* flex-direction: row-reverse;
+    align-content: space-around; */
+}
+.card_ {
+  min-height: 27vh;
+  max-height: 5cm;
+  margin-top: 30vh;
+  text-align: Left;
+  text-indent: -1.35vw;
+  display: flex;
+  /* flex-direction: row-reverse; */
+  align-content: space-around;
+}
+.card__ {
+  height: 6em;
+}
+.fontResize {
+  font-size: 14px;
+}

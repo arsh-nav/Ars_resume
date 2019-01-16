@@ -1,0 +1,54 @@
+.fullpage {
+    display:flex;
+    background-color: #eef09b;
+    -webkit-text-fill-color: goldenrod;
+    min-height: 109vh;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    flex-direction: column;
+  }
+  .fullpage2{
+    display:flex;
+    background-color: #c0ab4f;
+    -webkit-text-fill-color: rgb(104, 50, 12);
+    min-height: 109vh;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    flex-direction: column;
+  }
+  .fullpage3{
+    display:flex;
+    background-color: rgb(47, 255, 245);
+    -webkit-text-fill-color: rgb(139, 16, 109);
+    min-height: 109vh;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    flex-direction: column;
+  }
+
+  .fullpage-alt {
+    display:flex;
+    /* background-color: #d1e8f5; */
+    min-height: 109vh ;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    flex-direction: column;
+  }
+
+  .blue{
+    background-color: rgba(67, 120, 133, 1);
+    -webkit-text-fill-color: aqua
+  }
+  .yellow{
+    background-color: rgb(241, 241, 97);
+    -webkit-text-fill-color:rgb(153, 37, 8)
+  }
+  .red{
+    background-color: rgb(17, 55, 126);
+    -webkit-text-fill-color: rgb(214, 91, 91)
+    
+  }

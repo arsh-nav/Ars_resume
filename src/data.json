@@ -1,0 +1,59 @@
+{
+  "title": "Hello, I'm Arshia",
+  "subtitle": "Front-End Dev | Programming enthusiast",
+  "links": {
+    "github": "https://github.com/arsh-nav",
+    "stackoverflow": "https://stackoverflow.com/story/arshia_nv",
+    "linkedin": "https://www.linkedin.com/in/arshiaNv"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "content": "Some details about myself will be added to this component...!"
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "Images/React.png",
+            "skillTitle": "React",
+            "info":""
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "Images/browser.png",
+            "skillTitle": "Html,CSS,JS",
+            "info":""
+          }
+        },
+        {
+            "type": "card",
+            "content": {
+              "image": "Images/laravel.svg",
+              "skillTitle": "Php,Laravel",
+              "info": ""
+            }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "Images/sqlIcon.png",
+            "skillTitle": "SQL",
+            "info": ""
+          }
+      }
+      ]
+    }
+  ],
+  "icons":{
+    "down":"Images/down.png"
+  },
+  "themeColor":{
+    "contentColor":["Brown","Red","Green","Yellow"],
+    "backImgUrl":["url1","url2","url3","url4"]
+  }
+}
